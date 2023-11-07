@@ -1,0 +1,79 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#header a{
+    text-decoration: none;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    color: black;
+}
+#header{
+    text-align: right;
+}
+#advLogo{
+    text-align: left;
+    width: 75px;
+    padding-left: 10px;
+    padding-bottom: 10;
+ 
+}
+#heading{
+    padding-left: 25px;
+    color: #B50531;
+    font-weight: 50;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+hr{
+    color: #FE0041;
+}
+.findPages{
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 35px 10px 10px 20px;
+    color: #2E2F2F;
+}
+.horizontal-elements > * {
+    display: inline-block;
+
+}
+#findPagesHeader{
+    padding-right: 780px;
+    padding-bottom: 5px;
+    
+}
+#toDoHeader{
+    font-size: 15px;
+    color:#858584;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+#row1{
+    padding-left: 25px;
+    color: #2E2F2F;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#allTheseWords{
+    padding-top: 10px;
+    padding-left: 20px;
+    font-weight: 400;
+    padding-right: 46px;
+}
+#textBox{
+    width: 750px;
+    padding: 5px 5px 5px 5px;
+    height: 22px;
+
+}
+.rightText{
+    padding-left: 15px;
+}
+h1{
+    color: #B50531;
+    text-align: center;
+    padding: 50px
+}
